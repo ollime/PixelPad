@@ -18,7 +18,7 @@ Screenshot here
 
 ### Other
 
-- Firmware tbd
+- QMK Firmware
 
 ## Schematic
 
