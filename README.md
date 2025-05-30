@@ -22,6 +22,10 @@ Screenshot here
 
 ## Schematic
 
+![Schematic](/assets/schematic_screenshot.png)
+
 ## PCB
+
+![Schematic](/assets/pcb_screenshot.png)
 
 ## CAD Model
