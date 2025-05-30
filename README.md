@@ -18,6 +18,19 @@ A macropad with 12 keys + 1 rotary encoder.
 
 - QMK Firmware
 
+#### Key mappings
+
+     ┌───┬───┬───┬───┐
+     │ 7 │ 8 │ 9 │Ent│
+     ├───┼───┼───┼───┤
+     │ 4 │ 5 │ 6 │ 0 │
+     ├───┼───┼───┼───┤
+     │ 1 │ 2 │ 3 │Del│
+     └───┴───┴───┴───┘
+
+     Rotary encoder left: scroll up
+     Rotary encoder right: scroll down
+
 ## Schematic
 
 ![Schematic](/assets/schematic_screenshot.png)
