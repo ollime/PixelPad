@@ -2,8 +2,6 @@
 
 A macropad with 12 keys + 1 rotary encoder.
 
-Screenshot here
-
 ## Specifications
 
 ### BOM
@@ -26,6 +24,10 @@ Screenshot here
 
 ## PCB
 
-![Schematic](/assets/pcb_screenshot.png)
+![PCB](/assets/pcb_screenshot.png)
 
 ## CAD Model
+
+Key caps not shown
+
+![CAD](/assets/full_cad_screenshot.png)
