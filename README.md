@@ -13,6 +13,7 @@ A macropad with 12 keys + 1 rotary encoder.
 - 12x Blank DSA keycaps
 - 1x 3D printed case
 - 5x M3x5mx4mm heatset inserts
+- 4x M3x16mm screws
 
 ### Other
 
